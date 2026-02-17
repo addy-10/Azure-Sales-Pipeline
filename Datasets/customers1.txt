@@ -1,0 +1,12 @@
+customer_id,customer_name,email,city,created_date
+101,John Doe,john@gmail.com,Bangalore,2024-01-10
+102,Jane Smith,jane@gmail.com,Hyderabad,2024-01-12
+103,Ravi Kumar,ravi@gmail.com,Chennai,2024-01-15
+104,Amit Shah,amit@gmail.com,Mumbai,2024-01-18
+105,Priya Verma,priya@gmail.com,Pune,2024-01-20
+106,Anil Kumar,anil@gmail.com,Bangalore,2024-01-22
+107,Sneha Rao,sneha@gmail.com,Hyderabad,2024-01-25
+108,,invalid_email,Delhi,2024-01-27
+109,Karthik S,karthik@gmail.com,Chennai,2024-01-28
+110,Neha Singh,neha@gmail.com,Mumbai,2024-01-30
+

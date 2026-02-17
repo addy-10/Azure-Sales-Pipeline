@@ -1,0 +1,11 @@
+customer_id,customer_name,email,city,created_date
+121,Pankaj Yadav,pankaj@gmail.com,Noida,2024-02-20
+122,Ritu Sharma,ritu@gmail.com,Gurgaon,2024-02-22
+123,Sameer Khan,sameer@gmail.com,Bhopal,2024-02-25
+124,Kiran Rao,kiran@gmail.com,Bangalore,2024-02-27
+125,Meena Iyer,meena@gmail.com,Chennai,2024-03-01
+126,,alok@gmail.com,Delhi,2024-03-03
+127,Varun Malhotra,varun#gmail.com,Chandigarh,2024-03-05
+128,Ramesh Patil,ramesh@gmail.com,Pune,2024-03-07
+101,Duplicate John,john2@gmail.com,Bangalore,2024-03-08
+129,Sonal Gupta,sonal@gmail.com,Agra,2024-03-10

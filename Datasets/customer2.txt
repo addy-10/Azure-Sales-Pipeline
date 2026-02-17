@@ -1,0 +1,11 @@
+customer_id,customer_name,email,city,created_date
+111,Rahul Mehta,rahul@gmail.com,Ahmedabad,2024-02-01
+112,Sunita Patil,sunita@gmail.com,Nagpur,2024-02-03
+113,Arjun Nair,arjun@gmail,Trivandrum,2024-02-05
+114,,pooja@gmail.com,Jaipur,2024-02-07
+115,Vikas Jain,vikas@gmail.com,Indore,2026-02-08
+116,Deepa Joshi,deepa@gmail.com,Bhopal,2024-02-10
+117,Ashish Roy,ashish@gmail.com,Kolkata,2024-02-12
+118,Nitin Kulkarni,nitin@gmail.com,Pune,
+119,Swati Das,swati@gmail.com,Bhubaneswar,2024-02-15
+120,Manoj Singh,manoj@gmail.com,Lucknow,2024-02-18
